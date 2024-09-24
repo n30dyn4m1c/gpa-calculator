@@ -1,0 +1,22 @@
+[
+  {
+    "id": "course1",
+    "name": "Mathematics 101",
+    "credits": 3
+  },
+  {
+    "id": "course2",
+    "name": "Physics 102",
+    "credits": 3
+  },
+  {
+    "id": "course3",
+    "name": "Chemistry 103",
+    "credits": 4
+  },
+  {
+    "id": "course4",
+    "name": "Biology 104",
+    "credits": 3
+  }
+]
